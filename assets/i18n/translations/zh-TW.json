@@ -1,0 +1,16 @@
+{
+    "upload.label": "圖片上傳",
+    "results.label": "辨識結果",
+    "gallery.label": "人臉資料庫",
+    "uploadBtn.label": "上傳",
+    "compareBtn.label": "比較",
+    "liveStream.label": "來拍張照",
+    "compare.label": "比較",
+    "and.label": "和",
+    "demo.label": "xCos 展示",
+    "author.label": "林與晟",
+    "lab.label": "NTUCSIE CMLAB MiRA",
+    "explanation.label": "解釋",
+    "theSamePerson.label": "同一個人",
+    "differentPersons.label": "不同人"
+  }
